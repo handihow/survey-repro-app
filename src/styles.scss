@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+@import "~angular-notifier/styles.css";
+// @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+
+/* styles related to Bulma customization */
+
+/* licht roze */
+$orange: #FFB3D1;
+/* licht blauw */
+$cyan: #009CDE;
+/* donker blauw uit logo */
+$blue: #1A7EC1;
+/* donker rood uit logo */
+$red: #CE2241;
+/* donker roze uit website */
+$turquoise: #DF015A;
+/* paars dat matcht met donker roze uit website */
+$purple: #8601DF;
+
+$success: $orange;
+
+$navbar-height: 4.0rem;
+$navbar-item-img-max-height: 3.0rem;
+
+
+// $family-sans-serif: 'Source Sans Pro', sans-serif;
+
+@import "bulma";

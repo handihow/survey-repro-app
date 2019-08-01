@@ -23,8 +23,21 @@
               "src/favicon.ico",
               "src/assets"
             ],
+            "stylePreprocessorOptions": { 
+              "includePaths": [
+                "node_modules",
+                "node_modules/bulma/sass/utilities",
+                "src"
+              ]
+            },
             "styles": [
-              "src/styles.css"
+              "src/styles.scss",
+              "node_modules/bulma-extensions/bulma-divider/dist/css/bulma-divider.min.css",
+              "node_modules/bulma-extensions/bulma-pageloader/dist/css/bulma-pageloader.min.css",
+              "node_modules/bulma-extensions/bulma-timeline/dist/css/bulma-timeline.min.css",
+              "node_modules/survey-angular/survey.css",
+              "node_modules/survey-creator/survey-creator.css",
+              "node_modules/jquery-ui/themes/base/theme.css"
             ],
             "scripts": []
           },
