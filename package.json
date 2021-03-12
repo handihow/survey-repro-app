@@ -31,7 +31,7 @@
     "bulma-extensions": "^6.2.7",
     "classlist.js": "^1.1.20150312",
     "firebase": "^6.3.3",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "moment": "^2.24.0",
     "plotly.js": "1.49.0",
     "rxjs": "~6.5.2",
